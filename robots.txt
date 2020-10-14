@@ -1,0 +1,8 @@
+User-agent: * 
+Disallow: /plus
+Disallow: /include
+Disallow: /templets
+Disallow: /data
+Disallow: /mag
+
+sitemap:http://www.68996655.cn/sitemap.html
